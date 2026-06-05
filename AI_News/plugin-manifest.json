@@ -1,0 +1,17 @@
+{
+  "service": "CREATOR",
+  "cspDomains": {
+    "connect-src": [
+      "https://lottie.host/c61189d6-6a7b-4bd8-a82b-37adaf2bbe04/NAs2N6m5bb.lottie",
+    "https://unpkg.com/@lottiefiles/dotlottie-wc@0.9.14/dist/decorate-C0oFmnNg.js.map",
+    "https://unpkg.com/@lottiefiles/dotlottie-wc@0.9.14/dist/dist-BMnS_qxa.js.map",
+    "https://lottie.host/96f42c0e-d605-4389-89a3-8d5deea517fc/1i31uqcgF1.lottie",
+    "https://unpkg.com/@lottiefiles/dotlottie-wc@0.9.14/dist/dotlottie-wc.js.map",
+    "https://cdn.jsdelivr.net/npm/@lottiefiles/dotlottie-web@0.72.1/dist/dotlottie-player.wasm",
+    "https://unpkg.com/@lottiefiles/dotlottie-wc@0.9.14/dist/base-dotlottie-wc.js.map",
+    "https://esm.sh/groq-sdk@1.2.1/es2022/client.mjs.map",
+    "https://127.0.0.1:5000/.well-known/appspecific/com.chrome.devtools.json",
+    "https://api.groq.com/openai/v1/chat/completions"]
+  },
+  "config": []
+}
